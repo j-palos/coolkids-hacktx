@@ -1,10 +1,15 @@
 # coolkids-hacktx
 Bands/Artists:
-    bandName
+    bandName   
+
     bandGenre
+
     bandShows
+
     bandLocation
+
     bandPhoto
+    
     bandLinks
 
     //bandRating
